@@ -1,4 +1,5 @@
 # ThrottleToken
+# Throttle Contract address : 0xf7e6A1C9b55002d101FC90E9187D7f68E306d319
 
 Our token, named Throttle (symbol: TTL), is used in a number of ways:
 
